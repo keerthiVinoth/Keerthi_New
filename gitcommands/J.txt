@@ -1,0 +1,19 @@
+What do you know about Java?
+
+Java is a high-level programming language originally developed by Sun Microsystems and released in 1995. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX.
+
+List any five features of Java?
+
+Some features include Object Oriented, Platform Independent, Robust, Interpreted, Multi-threaded
+
+Define class?
+
+A class is a blue print from which individual objects are created. A class can contain fields and methods to describe the behavior of an object.
+
+What is an Exception?
+
+An exception is a problem that arises during the execution of a program. Exceptions are caught by handlers positioned along the thread's method invocation stack.
+
+Define Inheritance?
+
+It is the process where one object acquires the properties of another. With the use of inheritance the information is made manageable in a hierarchical order
