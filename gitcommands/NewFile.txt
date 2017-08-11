@@ -1,0 +1,6 @@
+git clone "Firstin Branch"
+git checkout -b "mynewbranch"
+git add FirstBranch.txt
+git commit -m "changes"
+git push origin "mynewbranch"
+git push origin branch:master
